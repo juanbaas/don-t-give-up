@@ -1,0 +1,5 @@
+{
+  "name": "dont-give-up",
+  "private": true,
+  "scripts": { "test": "node --test tests/parser.test.js" }
+}
