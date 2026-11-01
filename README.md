@@ -21,8 +21,8 @@ npm test                      # parser tests
 
 ## Put it on your phone
 
-1. In the repo: Settings → Pages → Source: **GitHub Actions**.
-2. Merge to `main`. The workflow deploys to `https://<user>.github.io/<repo>/`.
+1. In the repo: Settings → Pages → Source: **Deploy from a branch** → `main` / `(root)` → Save.
+2. After ~1 minute it's live at `https://<user>.github.io/<repo>/`.
 3. Open that link on your phone → Share → **Add to Home Screen**.
 
 Why not load lessons from the link alone? Udemy blocks other websites from reading its course data, so a pure phone app can't fetch it. Pasting the list takes about 30 seconds.
